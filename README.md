@@ -68,6 +68,14 @@ Each repository represents a component of this simulated security analytics pipe
 
 # Security Analytics Projects
 
+## AI Security Operations Platform (AISOP)
+
+AI-assisted SOC analytics platform that simulates how modern security teams transform telemetry into investigations through detection engineering, ATT&CK mapping, attack chain analysis, timeline reconstruction, and AI-assisted triage.
+
+https://github.com/santinoholmes1979/aisop
+
+---
+
 ## AI Threat Hunter
 AI-assisted threat hunting platform that enables SOC analysts to investigate alerts and identify suspicious adversary behavior.
 
