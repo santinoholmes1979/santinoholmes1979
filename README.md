@@ -66,7 +66,7 @@ Each repository represents a component of this simulated security analytics pipe
 
 ---
 
-# Featured Projects
+# Security Analytics Projects
 
 ## AI Threat Hunter
 AI-assisted threat hunting platform that enables SOC analysts to investigate alerts and identify suspicious adversary behavior.
