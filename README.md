@@ -12,6 +12,34 @@ Security and Risk Analysis graduate and U.S. Navy veteran building **AI-assisted
 
 This GitHub portfolio demonstrates the design and development of a simulated **AI-driven Security Operations platform** built with Python, security telemetry simulation, and machine learning techniques.
 
+## AISOP – AI-Assisted Security Operations Platform
+
+AISOP is a simulated **Security Operations Center (SOC) analytics platform** that demonstrates how modern security teams transform telemetry into investigations.
+
+The platform models a real-world security pipeline:
+
+Telemetry  
+↓  
+Detection Rules  
+↓  
+Alert Generation  
+↓  
+Incident Correlation  
+↓  
+MITRE ATT&CK Mapping  
+↓  
+Attack Chain Reconstruction  
+↓  
+Incident Timeline Analysis  
+↓  
+AI-Assisted Triage  
+↓  
+SOC Investigation Workflow  
+
+Repository:  
+https://github.com/santinoholmes1979/aisop
+
+
 ---
 
 # AI Security Operations Platform
