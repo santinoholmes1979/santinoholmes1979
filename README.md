@@ -8,7 +8,9 @@
 
 AI-Driven Cybersecurity | Detection Engineering | Threat Hunting | Security Analytics
 
-Security and Risk Analysis graduate and U.S. Navy veteran building **AI-assisted cybersecurity tools for threat detection, investigation, and security analytics**.
+Security and Risk Analysis graduate and U.S. Navy veteran building **AI-assisted cybersecurity analytics platforms and detection engineering tools**.
+
+My projects focus on modeling how modern Security Operations Centers detect adversary activity, investigate incidents, and accelerate analyst decision-making using automation and AI.
 
 This GitHub portfolio demonstrates the design and development of a simulated **AI-driven Security Operations platform** built with Python, security telemetry simulation, and machine learning techniques.
 
