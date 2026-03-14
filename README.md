@@ -7,7 +7,7 @@
 ![Zero Trust](https://img.shields.io/badge/Security-Zero%20Trust-black)
 ![AI Security](https://img.shields.io/badge/AI-Security%20Analytics-green)
 
-AI-Driven Cybersecurity | Detection Engineering | Threat Hunting | Security Analytics
+Cybersecurity Engineering | Detection Engineering | Threat Hunting | AI Security Analytics
 
 Security & Risk Analysis graduate and U.S. Navy veteran building **AI-assisted cybersecurity analytics platforms and detection engineering tools**.
 
@@ -16,6 +16,9 @@ I build systems that model how modern Security Operations Centers convert **secu
 ## Core Security Platforms
 
 These projects form the core of my security analytics portfolio.
+
+These platforms collectively model different layers of modern SOC analytics and investigation workflows.
+
 
 **AISOP – AI Security Operations Platform**  
 AI-assisted SOC platform modeling how modern security teams convert telemetry into investigations.
@@ -31,7 +34,7 @@ Detection engineering environment simulating behavioral analytics used by endpoi
 
 ---
 
-# Portfolio Architecture
+## Portfolio Architecture
 
 This portfolio simulates the workflow of a modern Security Operations Center.
 
